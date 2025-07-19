@@ -1,14 +1,4 @@
 
-
-Let me know how you're uploading — I can guide step-by-step if needed.
-You said:
-void earphone sstatic website 
-where you hav ehome page
-secon is a pg where shoe whic are the best one
-thirs pag is where ther RE EARPHONES WITH PROCE AND COLOUR ASLO CRAT IT ADDS AND LOGIN PG
-ChatGPT said:
-
-Got it! Here's a complete GitHub README.md tailored for your Void Earphones static website project that includes home
 # Void Earphones 🎧
 
 A responsive static website for **Void Earphones**, showcasing premium earphones with product listings, price details, and shopping cart simulation.  
